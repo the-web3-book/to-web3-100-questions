@@ -2,7 +2,7 @@
 
 ## 前言
 
-- (您转型 Web3 是为了就业, 还是为了兴趣？)[https://github.com/the-web3-book/to-web3-100-questions/blob/main/preface/ReadMe.md]
+- [您转型 Web3 是为了就业, 还是为了兴趣?](https://github.com/the-web3-book/to-web3-100-questions/blob/main/preface/ReadMe.md)
 
 ## 一.行业发展与趋势
 - Web3 与区块链的关系是什么？
