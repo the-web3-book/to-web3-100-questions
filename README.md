@@ -10,10 +10,10 @@
 - [Web3 与 AI 相比，哪个赛道前景更大？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterOne/Q3.md)
 - [Web3 与实体经济应如何实现平衡与融合？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterOne/Q4.md)
 - [牛熊周期对 Web3 就业市场的影响？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterOne/Q5.md)
-- [牛市来临的典型信号有哪些？]()
-- [Web3 行业整体稳定性如何？]()
-- [Web3 行业内是否存在“鄙视链”？]()
-- [当前 Web3 有哪些可持续的盈利模式？]()
+- [牛市来临的典型信号有哪些？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterOne/Q7.md)
+- [Web3 行业整体稳定性如何？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterOne/Q8.md)
+- [Web3 行业内是否存在“鄙视链”？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterOne/Q9.md)
+- [当前 Web3 有哪些可持续的盈利模式？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterOne/Q10.md)
 
 ## 二.就业与转行
 - Web3 岗位的远程机会是否充足？
