@@ -7,13 +7,13 @@
 ## 一.行业发展与趋势
 - [Web2 和 Web3 现状，Web3 的未来发展分析？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterOne/Q1.md)
 - [Web3 与区块链的关系是什么？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterOne/Q2.md)
-- Web3 与 AI 相比，哪个赛道前景更大？
-- Web3 与实体经济应如何实现平衡与融合？
-- 牛熊周期对 Web3 就业市场的影响？
-- 牛市来临的典型信号有哪些？
-- Web3 行业整体稳定性如何？
-- Web3 行业内是否存在“鄙视链”？
-- 当前 Web3 有哪些可持续的盈利模式？
+- [Web3 与 AI 相比，哪个赛道前景更大？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterOne/Q3.md)
+- [Web3 与实体经济应如何实现平衡与融合？]()
+- [牛熊周期对 Web3 就业市场的影响？]()
+- [牛市来临的典型信号有哪些？]()
+- [Web3 行业整体稳定性如何？]()
+- [Web3 行业内是否存在“鄙视链”？]()
+- [当前 Web3 有哪些可持续的盈利模式？]()
 
 ## 二.就业与转行
 - Web3 岗位的远程机会是否充足？
