@@ -6,7 +6,7 @@
 
 ## 一.行业发展与趋势
 - [Web2 和 Web3 现状，Web3 的未来发展分析？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterOne/Q1.md)
-- Web3 与区块链的关系是什么？
+- [Web3 与区块链的关系是什么？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterOne/Q2.md)
 - Web3 与 AI 相比，哪个赛道前景更大？
 - Web3 与实体经济应如何实现平衡与融合？
 - 牛熊周期对 Web3 就业市场的影响？
