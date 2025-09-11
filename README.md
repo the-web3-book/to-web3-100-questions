@@ -5,7 +5,7 @@
 - [您转型 Web3 是为了就业, 还是为了兴趣?](https://github.com/the-web3-book/to-web3-100-questions/blob/main/preface/ReadMe.md)
 
 ## 一.行业发展与趋势
-- [Web2 和 Web3 现状，Web3 的未来发展分析？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterOne/ReadMe.md)
+- [Web2 和 Web3 现状，Web3 的未来发展分析？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterOne/Q1.md)
 - Web3 与区块链的关系是什么？
 - Web3 与 AI 相比，哪个赛道前景更大？
 - Web3 与实体经济应如何实现平衡与融合？
