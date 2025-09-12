@@ -22,7 +22,7 @@
 - [哪些岗位最缺人，哪些岗位受牛熊影响最小（如合规、安全）？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q13.md)
 - [Web3 对英语能力的要求有多高？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q14.md)
 - [新人、3-5 年、5 年以上从业者的薪资水平大概是多少？]()
-- [目前最缺的岗位是什么？转型的最佳路径有哪些？]()
+- [ Web3 转型的最佳路径有哪些？]()
 - [Web3 的招聘渠道有哪些？]()
 - [拥有香港/新加坡等地的海外身份（PR）能带来哪些机会？]()
     
