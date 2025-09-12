@@ -17,8 +17,7 @@
 
 ## 二.就业与转行
 - [Web3 岗位的远程机会是否充足？](http://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q10.md)
-- [Web3 工作的稳定性如何？]()
-- [行业内对学历要求高吗？]()
+- [行业内对学历要求高吗？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q11.md)
 - [Web3 是否存在年龄歧视？]()
 - [哪些岗位最缺人？]()
 - [哪些岗位受牛熊影响最小（如合规、安全）？]()
