@@ -27,7 +27,7 @@
 - [拥有香港/新加坡等地的海外身份（PR）能带来哪些机会？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q18.md)
     
 ## 三.职业转型与学习路径
-- [Web2 开发者转 Web3 开发需要学习哪些内容？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q19.md)
+- [Web2 开发者转 Web3 开发需要学习哪些内容？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/ChapterThree/Q19.md)
 - [Web2 产品经理如何转型 Web3？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q20.md)
 - [Web2 运营（投流方向）转型，适合做运营还是 BD？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q21.md)
 - [非开发者进入 Web3 的门槛高吗？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q22.md)
