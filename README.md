@@ -29,14 +29,8 @@
 ## 三.职业转型与学习路径
 - [Web2 开发者转 Web3 开发需要学习哪些内容？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/ChapterThree/Q19.md)
 - [Web2 产品经理如何转型 Web3？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/ChapterThree/Q20.md)
-- [Web2 运营（投流方向）转型，适合做运营还是 BD？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q21.md)
-- [非开发者进入 Web3 的门槛高吗？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q22.md)
-- [非互联网行业（如机械、土木）能否转 Web3？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q23.md)
-- [金融背景（投研/风控/产品）如何切入 Web3？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q24.md)
-- [银行风险计量背景如何转金融科技 PM？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q25.md)
-- [一级市场股权投资背景转 Web3 投研是否还有机会？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q26.md)
-- [35 岁以后还能进入 Web3 吗？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q27.md)
-- [零基础小白转 Web3 需要多长时间？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q28.md)
+- [Web2 非产研转型 Web3 需要学习什么东西](https://github.com/the-web3-book/to-web3-100-questions/blob/main/ChapterThree/Q21.md)
+- [零基础小白是否可以转 Web3，转 Web3 需要多长时间？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/ChapterThree/Q22.md)
 
 ## 四.岗位与技能
 - [Web3 的主要岗位类型有哪些？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q29.md)
