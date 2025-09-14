@@ -33,7 +33,7 @@
 - [零基础小白是否可以转 Web3，转 Web3 需要多长时间？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/ChapterThree/Q22.md)
 
 ## 四.岗位与技能
-- [Web3 的主要岗位类型有哪些？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q29.md)
+- [Web3 的主要岗位类型有哪些？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFour/Q23.md)
 - [钱包、智能合约、公链开发工资对比？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q30.md)
 - [前端、后端、运维、测试哪个更适合入行 Web3？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q31.md)
 - [成为专业的 Web3 审计工程师难度如何？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q32.md)
