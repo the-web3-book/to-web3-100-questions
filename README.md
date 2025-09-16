@@ -44,8 +44,8 @@
 
 ## 五.学习框架与技术栈
 - [如何搭建系统的 Web3 学习框架？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q31.md)
-- [Web3 编程语言排行榜？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q31.md)
-- [不同公链生态对就业的影响？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q32.md)
+- [Web3 编程语言排行榜？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q32.md)
+- [不同公链生态对就业的影响？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q33.md)
 
 ## 六.钱包生态
 - [钱包体系包含哪些类型？]()
