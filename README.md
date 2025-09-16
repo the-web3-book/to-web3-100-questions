@@ -48,14 +48,14 @@
 - [不同公链生态对就业的影响？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q33.md)
 
 ## 六.钱包生态
-- [钱包体系包含哪些类型？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q33.md)
-- [中心化钱包、MPC 托管钱包、硬件钱包、去中心化钱包的就业机会？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q34.md)
-- [什么是 MPC？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q35.md)
-- [门限秘密共享、门限签名与 MPC 的区别？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q36.md)
-- [MPC 托管钱包与传统钱包的区别？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q37.md)
-- [多签钱包与 MPC 钱包的区别？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q38.md)
-- [交易所钱包的链路风控是如何实现的？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q39.md)
-- [钱包开发需要学习哪些内容？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q40.md)
+- [钱包体系包含哪些类型？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterSix/Q33.md)
+- [中心化钱包、MPC 托管钱包、硬件钱包、去中心化钱包的就业机会？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterSix/Q34.md)
+- [什么是 MPC？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterSix/Q35.md)
+- [门限秘密共享、门限签名与 MPC 的区别？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterSix/Q36.md)
+- [MPC 托管钱包与传统钱包的区别？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterSix/Q37.md)
+- [多签钱包与 MPC 钱包的区别？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterSix/Q38.md)
+- [交易所钱包的链路风控是如何实现的？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterSix/Q39.md)
+- [钱包开发需要学习哪些内容？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterSix/Q40.md)
 
 ## 七.公链及其生态
 - [主流公链的异同与优劣势，Builders 应如何选择？]()
