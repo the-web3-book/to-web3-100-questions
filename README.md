@@ -37,15 +37,15 @@
 - [钱包、智能合约、公链开发工资对比？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFour/Q24.md)
 - [前端、后端、运维、测试哪个更适合入行 Web3？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFour/Q25.md)
 - [成为专业的 Web3 审计工程/安全工程师师难度如何？成长路径怎么样？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFour/Q26.md)
-- [各类岗位的工作强度如何？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q33.md)
-- [技术，产品，市场、运营、BD 的职业发展路径？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q34.md)
-- [投研岗位需要哪些能力？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q36.md)
-- [产品经理的现状与竞争力？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q37.md)
+- [各类岗位的工作强度如何？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFour/Q27.md)
+- [技术，产品，市场、运营、BD 的职业发展路径？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFour/Q28.md)
+- [投研岗位需要哪些能力？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFour/Q29.md)
+- [产品经理的现状与竞争力？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFour/Q30.md)
 
 ## 五.学习框架与技术栈
-- [如何搭建系统的 Web3 学习框架？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q38.md)
-- [Web3 编程语言排行榜？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q39.md)
-- [不同公链生态对就业的影响？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterTwo/Q40.md)
+- [如何搭建系统的 Web3 学习框架？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q31.md)
+- [Web3 编程语言排行榜？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q31.md)
+- [不同公链生态对就业的影响？](https://github.com/the-web3-book/to-web3-100-questions/blob/main/chapterFive/Q32.md)
 
 ## 六.钱包生态
 - [钱包体系包含哪些类型？]()
