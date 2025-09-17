@@ -152,4 +152,9 @@
 - [The Web3 社区技术开发课程：大纲, 当前就业情况以及如何跟着大纲自学](https://github.com/the-web3-book/to-web3-100-questions/blob/main/appendix/Q105-TheWeb3社区技术开发课程大纲.md)
 - [The Web3 社区产品课程：大纲, 当前就业情况以及如何跟着大纲自学](https://github.com/the-web3-book/to-web3-100-questions/blob/main/appendix/Q106-TheWeb3社区产品课程大纲.md)
 
-本书籍文章可以转载，转载时写明出处
+---
+
+**转载声明：本书籍文章可以转载，转载时请写明出处**
+
+## The Web3 社区简介
+The Web3 是一个专注于 Web3 技术解决方案设计与开发的社区，致力于为个人和企业提供专业提升的教程设计、研发与培训服务。
